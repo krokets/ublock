@@ -1,4 +1,5 @@
 ! TVA Nouvelles
-||tvanouvelles.ca##.appbanner
+tvanouvelles.ca##.appbanner
+
 ! Journal de Montreal
-||journaldemontreal.com##.appbanner
+journaldemontreal.com##.appbanner
