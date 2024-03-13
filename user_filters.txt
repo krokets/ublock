@@ -4,6 +4,9 @@ tvanouvelles.ca##.appbanner
 ! Journal de Montreal
 journaldemontreal.com##.appbanner
 
+! LaPresse
+lapresse.ca###mainHeader
+
 !
 ! Reddit app ad
 !
