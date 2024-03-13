@@ -8,6 +8,7 @@ journaldemontreal.com##.appbanner
 lapresse.ca###mainHeader
 lapresse.ca###root-countdown
 lapresse.ca##.pageBlock--emplacement-storyNewsletter
+lapresse.ca##.brz_msg_wall_body
 
 !
 ! Reddit app ad
@@ -63,7 +64,7 @@ www.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) [
 ! Suggested groups
 www.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) [href="/groups/discover/"]:upward([aria-posinset],[aria-describedby]:not([aria-posinset])):style(height: 0 !important; overflow: hidden !important;)
 ! Reels and short videos
-www.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) [href="/reel/?s=ifu_see_more"]:upward([aria-posinset],[aria-describedby]:not([aria-posinset])):style(height: 0 !important; overflow: hidden !important;)
+!www.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) [href="/reel/?s=ifu_see_more"]:upward([aria-posinset],[aria-describedby]:not([aria-posinset])):style(height: 0 !important; overflow: hidden !important;)
 ! Suggested pages
 www.facebook.com##:is([aria-posinset],[aria-describedby]:not([aria-posinset])) [aria-label="Suggested pages"]:upward([aria-posinset],[aria-describedby]:not([aria-posinset])):style(height: 0 !important; overflow: hidden !important;)
 ! Suggested for you (mobile)
