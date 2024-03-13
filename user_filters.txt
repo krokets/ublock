@@ -1,5 +1,4 @@
-# Test commit 3
-
-!#if env_mobile
-##.appbanner
-!#endif
+! TVA Nouvelles
+||tvanouvelles.ca##.appbanner
+! Journal de Montreal
+||journaldemontreal.com##.appbanner
