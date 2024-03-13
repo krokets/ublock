@@ -6,7 +6,8 @@ journaldemontreal.com##.appbanner
 
 ! LaPresse
 lapresse.ca###mainHeader
-www.lapresse.ca###root-countdown
+lapresse.ca###root-countdown
+lapresse.ca##.pageBlock--emplacement-storyNewsletter
 
 !
 ! Reddit app ad
