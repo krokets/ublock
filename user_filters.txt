@@ -67,7 +67,3 @@ m.facebook.com##[data-mcomponent="MScreen"]>div[class="m"]>div:has-text(Suggeste
 facebook.com##[aria-label*="Marketplace"] object > a[href^="/ads/"] > span:not(:empty):upward(11)
 ! if filters does not work try remove [aria-label*="Marketplace"] and use correct word "Sponsored" in "has-text".
 facebook.com##[aria-label*="Marketplace"] object:has(> a[href^="/ads/"] > span:has-text(/^Sponsored$/)):upward(a):upward(3)
-! Removes FB's "Related discussions" panel:
-facebook.com##div[role=article] span:not(>*):has-text(/^Related discussions$/):upward(span)
-! FB - news and group feeds - related discussions - hide the "# related" link/button
-facebook.com##div[role=button] > span:not(>*):has-text(/related/i):upward(4)
