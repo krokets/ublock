@@ -11,6 +11,11 @@ lapresse.ca##.pageBlock--emplacement-storyNewsletter
 lapresse.ca##.brz_msg_wall_body
 
 !
+! Stack Overflow
+!
+stackoverflow.com##.g16.jc-space-around.fd-column.d-flex.bs-lg.py32.px128.hs2.w100.s-card.z-modal.l0.b0.ps-fixed
+
+!
 ! Reddit app ad
 !
 www.reddit.com##.XPromoPopupRpl
