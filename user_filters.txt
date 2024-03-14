@@ -2,10 +2,10 @@
 tvanouvelles.ca##.appbanner
 
 ! Journal de Montreal/Quebec
-journalde*.com##.appbanner
+journaldemontreal.com##.appbanner
+journaldequebec.com##.appbanner
 
-! LaPresse
-lapresse.ca###mainHeader
+! La Presse
 lapresse.ca###root-countdown
 lapresse.ca##.pageBlock--emplacement-storyNewsletter
 lapresse.ca##.brz_msg_wall_body
