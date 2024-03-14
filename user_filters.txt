@@ -1,8 +1,8 @@
 ! TVA Nouvelles
 tvanouvelles.ca##.appbanner
 
-! Journal de Montreal
-journaldemontreal.com##.appbanner
+! Journal de Montreal/Quebec
+journalde*.com##.appbanner
 
 ! LaPresse
 lapresse.ca###mainHeader
