@@ -16,6 +16,7 @@ journaldequebec.com,journaldemontreal.com##.smartbanner
 journaldequebec.com,journaldemontreal.com##.article-bas-container
 journaldequebec.com,journaldemontreal.com###wrapper > .stickiness.dfp-labeled
 journaldequebec.com,journaldemontreal.com##.custom.embedded-others
+journaldequebec.com,journaldemontreal.com##.FIVE_MINUTES.article-right-container.section-rightrail
 
 !
 ! Noovo
