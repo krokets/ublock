@@ -1,11 +1,41 @@
+!
+! Mobile
+!
+journaldequebec.com,journaldemontreal.com,tvanouvelles.ca,cbc.ca##.appbanner
+
+!
 ! TVA Nouvelles
-tvanouvelles.ca##.appbanner
+!
+tvanouvelles.ca###player-3579d5b0 > .vjs-poster
+tvanouvelles.ca##.vjs-poster
 
+!
 ! Journal de Montreal/Quebec
-journaldemontreal.com##.appbanner
-journaldequebec.com##.appbanner
+!
+journaldequebec.com,journaldemontreal.com##.smartbanner
+journaldequebec.com,journaldemontreal.com##.article-bas-container
+journaldequebec.com,journaldemontreal.com###wrapper > .stickiness.dfp-labeled
+journaldequebec.com,journaldemontreal.com##.custom.embedded-others
 
+!
+! Noovo
+!
+noovo.info##.v-modal__panel
+noovo.info##.c-advert--leaderBoard.lazyload.c-advert
+noovo.info##.c-newsletterBlock
+noovo.info##.c-jasperVideoPlayer
+noovo.info##fw-storyblock
+noovo.info##.c-advert--fluid.lazyload.c-advert > .c-advert__wrapper
+
+!
+! Fortune
+!
+fortune.com##.paywall > .undefined.product-card-wrapper.gjbbDt.sc-bee345e1-0
+fortune.com##.rawHtml-content > .undefined.product-card-wrapper.gjbbDt.sc-bee345e1-0
+
+!
 ! La Presse
+!
 lapresse.ca###root-countdown
 lapresse.ca##.pageBlock--emplacement-storyNewsletter
 lapresse.ca##.brz_msg_wall_body
@@ -15,6 +45,26 @@ lapresse.ca###lpmsg_msg_wall_body
 ! Radio-Canada
 !
 radio-canada.ca###m-carousel-container-live-carousel-1710421805406 > .row
+radio-canada.ca##.print\:hidden.ease-linear.duration-100.transition-all.overflow-hidden.w-full.z-pagopAd.relative.dark\:bg-gray800.light\:bg-gray200.bg-gray200.sm\:h-0.xsOnly\:h-\[70px\]
+radio-canada.ca##.overflow-hidden.z-toast.bottom-screenBottom.inset-x-0.fixed.pointer-events-none
+
+! 24heures
+24heures.ca##.type-custom.element-embed
+24heures.ca##.newsletter-bar-widget
+
+!
+! clubic
+!
+clubic.com##.marty-embed-card
+clubic.com##.text.bg-grey.gnews-subscribe
+clubic.com##.newsletter
+clubic.com##.vsly-bloc
+clubic.com##.mt16.medium-4.cell-block-container.cell
+
+!
+! linkedin
+!
+linkedin.com##.bottom-safe-offset-6.bottom-0.w-full.items-center.flex.z-1.bg-cool-gray-90.fixed.omnibanner
 
 !
 ! Stack Overflow
