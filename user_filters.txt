@@ -102,11 +102,11 @@ reddit.com##a[href^="/rpan/"] > h3:has-text(/Top (livestream|broadcast)/):upward
 ! Google
 !
 ! Google consent, "before you continue"
-www.google.*##^script:has-text(consentCookiePayload)
-www.google.*##+js(acis, document.cookie, YES+)
-google.*##+js(aeld, DOMContentLoaded, CONSENT)
+!www.google.*##^script:has-text(consentCookiePayload)
+!www.google.*##+js(acis, document.cookie, YES+)
+!google.*##+js(aeld, DOMContentLoaded, CONSENT)
 ! block subdomain request can generate breakage - disable network filter if you have any breakage:
-||consent.google.com^
+!||consent.google.com^
 ! "People also search for"
 google.*##[id^="eob_"]
 ! Google login dialogs on various pages
