@@ -1,7 +1,8 @@
 !
-! Mobile
+! General
 !
 journaldequebec.com,journaldemontreal.com,tvanouvelles.ca,cbc.ca##.appbanner
+journaldequebec.com,journaldemontreal.com,tvanouvelles.ca,cbc.ca##.smartbanner
 
 !
 ! TVA Nouvelles
@@ -12,7 +13,6 @@ tvanouvelles.ca##.vjs-poster
 !
 ! Journal de Montreal/Quebec
 !
-journaldequebec.com,journaldemontreal.com##.smartbanner
 journaldequebec.com,journaldemontreal.com##.article-bas-container
 journaldequebec.com,journaldemontreal.com###wrapper > .stickiness.dfp-labeled
 journaldequebec.com,journaldemontreal.com##.custom.embedded-others
