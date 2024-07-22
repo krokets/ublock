@@ -1,14 +1,16 @@
 !
 ! General
 !
-journaldequebec.com,journaldemontreal.com,tvanouvelles.ca,cbc.ca##.appbanner
 journaldequebec.com,journaldemontreal.com,tvanouvelles.ca,cbc.ca##.smartbanner
+journaldequebec.com,journaldemontreal.com,tvanouvelles.ca,cbc.ca##.appbanner
+journaldequebec.com,journaldemontreal.com,tvanouvelles.ca,cbc.ca##.rotobanner
 
 !
 ! TVA Nouvelles
 !
 tvanouvelles.ca###player-3579d5b0 > .vjs-poster
 tvanouvelles.ca##.vjs-poster
+tvanouvelles.ca##.visible.wrapper_bandeau_scoop > .espace_bandeau_scoop
 
 !
 ! Journal de Montreal/Quebec
@@ -27,6 +29,8 @@ noovo.info##.c-newsletterBlock
 noovo.info##.c-jasperVideoPlayer
 noovo.info##fw-storyblock
 noovo.info##.c-advert--fluid.lazyload.c-advert > .c-advert__wrapper
+noovo.info##.c-newslettersticky__backdrop
+noovomoi.ca##.c-newslettersticky
 
 !
 ! Fortune
@@ -54,6 +58,8 @@ meteomedia.com##.taskbar
 radio-canada.ca###m-carousel-container-live-carousel-1710421805406 > .row
 radio-canada.ca##.print\:hidden.ease-linear.duration-100.transition-all.overflow-hidden.w-full.z-pagopAd.relative.dark\:bg-gray800.light\:bg-gray200.bg-gray200.sm\:h-0.xsOnly\:h-\[70px\]
 radio-canada.ca##.overflow-hidden.z-toast.bottom-screenBottom.inset-x-0.fixed.pointer-events-none
+radio-canada.ca##.scrollbar-hide.overflow-auto.max-h-screen.z-onTopOfNav.bottom-screenBottom.inset-x-0.fixed.pointer-events-none
+radio-canada.ca##.print\:hidden.ease-linear.duration-100.transition-all.overflow-hidden.w-full.z-pageTopAd.relative.dark\:bg-gray800.light\:bg-gray200.bg-gray200.sm\:h-0.xsOnly\:h-\[70px\]
 
 ! 24heures
 24heures.ca##.type-custom.element-embed
@@ -141,3 +147,20 @@ m.facebook.com##[data-mcomponent="MScreen"]>div[class="m"]>div:has-text(Suggeste
 facebook.com##[aria-label*="Marketplace"] object > a[href^="/ads/"] > span:not(:empty):upward(11)
 ! if filters does not work try remove [aria-label*="Marketplace"] and use correct word "Sponsored" in "has-text".
 facebook.com##[aria-label*="Marketplace"] object:has(> a[href^="/ads/"] > span:has-text(/^Sponsored$/)):upward(a):upward(3)
+
+!
+! Hockey30
+!
+hockey30.com##.ads.device-desktop.device-tablet.device-mobile
+hockey30.com##.carousel-inner > .margin-top-20.row
+hockey30.com##.latest > .row
+
+!
+! iflscience
+!
+iflscience.com##.info-links-sticky
+
+!
+! NewYork Times
+!
+nytimes.com##.d073a639.b9baaaf4
