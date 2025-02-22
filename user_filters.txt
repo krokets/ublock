@@ -45,7 +45,7 @@ lapresse.ca###root-countdown
 lapresse.ca##.pageBlock--emplacement-storyNewsletter
 lapresse.ca##.brz_msg_wall_body
 lapresse.ca###lpmsg_msg_wall_body
-lapresse.ca##body > div
+!lapresse.ca##body > div
 
 !
 ! Meteomedia
